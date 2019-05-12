@@ -27,13 +27,13 @@ class Intro:
 
         return
 
-# knockout = Intro("rest", necro[4])
-# knockout.runtext()
-#
-# wakeup = Intro("open eyes", necro[8])
-# wakeup.runtext()
-#
-# print(necro[10])
+knockout = Intro("rest", necro[4])
+knockout.runtext()
+
+wakeup = Intro("open eyes", necro[8])
+wakeup.runtext()
+
+print(necro[10])
 
 yourname = str(input("What is your name?"))
 
@@ -61,7 +61,30 @@ class PlayerInteract:
 
         return
 
+newchar = PlayerInteract(yourname,necro[14])
+newchar.runtext()
 
+where = """ "No", "Yes, the necropolis?(enter yes)" """
+playerselect = str(input("Your Options Are: "+ where))
+playerselect = playerselect.lower()
+
+while True:
+    if "no" in playerselect:
+        nores = PlayerInteract("no", necro[21])
+        nores.runtext()
+
+    elif playerselect not in where:
+        if playerselect not in where:
+                print("Error, your options are:", where)
+                playerselect = str(input())
+                playerselect = playerselect.lower()
+                continue
+        else:
+            break
+    elif "yes" in playerselect:#somehow this broke with more than one word entry even though the same thing works perfectly fine later
+        somemem = PlayerInteract ("necropolis", necro[24])
+        somemem.runtext()
+    break
 
 interact = """ "Telkani?", "Who are you?", "Kagash?", "Necropolis?", "I should go": """
 playerchoice = str(input("Your Options Are: "+ interact))
