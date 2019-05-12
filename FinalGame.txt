@@ -1,0 +1,52 @@
+It's dark, and quiet, some far off wind echoes across a cavernous opening. There is a sharp pain against your neck, but you dont have the strength to move. Every limb feels weighted with lead... So tired... Perhaps it would be better if you stayed here, on the cool ground, grit under your fingers and cheek. Yes. Rest is what you need.
+
+(Rest Button)
+
+Your mind begins to slip away, but something reaches your ears, a sound like you are underwater. Armor clanking against itself. You hear someone hiss a quiet cuss, "Kashet." before there is a hand on your shoulder. It is warm, very warm. Were you really so cold? The hand goes to your neck, stilling for a moment before checking for a pulse. You hear the person sigh, then that warmth spreads over your entire body. Suddenly your limbs aren't as heavy, your mind not nearly so tired. 
+
+(Open your eyes)
+
+The first thing you notice is dim light from braziers, and stone floors beneath you. The next is the armored figure. As they pull their hand from your neck, you can see the brassy gold color of a familiar armor, though you're not sure why its familiar. Dark skin and long braids heavily decorated in brass beads, their amber eyes almost glow in the firelight, especially against the dark circles under their eyes. "You've had a bad night friend." they say, adjusting a bracer "What's your name?"
+
+Your name. What is your name? It's hard to remember.
+
+(Name input)
+
+It takes you a long long time to remember, long enough the armored figure takes note of the dazed look on your face and begins to look concerned. But eventually you're able to tell them a name. You're even almost sure its your own. "Player_name, huh? Do you know where you are?" they ask again. As you sit up you truly begin to take in your surroundings. You appear to be in a large, almost endless cavern, but all around you are stone houses, pathways, and braziers lighting the way. It is a city, of a kind. There are no people, and all the doors and windows are sealed by stone. You are alone with the armored person.
+
+(TREE 1- OPENING)
+
+(BRANCH 1-1)
+(No. Where am I?)
+
+"You are in the necropolis of Kagash, capital of Iassa. You're not Telkani, and you were injured so I wonder how you got in here." they answer you, they seem to be both concerned and suspicious. Perhaps the concern comes from the pain you were in. But you get the sense you arent supposed to be here
+
+(Yes, The necropolis.)
+"Thats right. In Kagash." they supply, they seem to be both concerned and suspicious. "You're not Telkani, and you were injured so I wonder how you got in here." Perhaps the concern comes from the pain you were in. But you get the sense you arent supposed to be here.
+
+(BRANCH 1-2)
+(Necropolis?)
+"The cities of the afterlife on earth, where the sacred dead rest in this world. We Telkani guard them, to make sure they are not disturbed." they explain looking over and nodding to one of the sealed houses. You realize you are in fact in the elaborate tomb of generations before you. No wonder it is so quiet.
+
+(Kagash?)
+They look confused "Kagash, the capital? Biggest city in Iassa, the country you are in right now?" they shift as if looking you over, their armor clinking in the process. You can invision a city, bright limestone buildings and obelisks, overflowing with lush gardens and brilliant blues and green stone inlays along mighty walls. Your mind tells you that is Kagash. But you can't place how you've seen it.
+
+(Telkani?)
+"The guardians of the living and the dead, chosen by the gods themselves in trials in these very roads." They explain and gesture to a green scarab on their chest. "I'm a journeyman, guarding the tombs is my duty."
+
+("Who are you?")
+"My name is Merit. I'm a Telkani, and you are on my patrol route. Half dead and apparently with some memory issues." they say, appearing concerned for you. 
+
+("I think I should go")
+"I dont think you should go anywhere on your own right now. You were wounded and you seem to be having difficulty remembering things. I think you should come with me." they say, standing and offer you a hand up.
+
+
+
+
+
+
+
+
+
+
+
